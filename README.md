@@ -80,6 +80,7 @@ The goal of this project is to practice data analysis skills and turn raw e-comm
 
 **Overview**
 
+<img width="1920" height="1080" alt="Ekran görüntüsü 2026-10-11 212515" src="https://github.com/user-attachments/assets/32270791-0bbf-490c-9c7a-775cb8cbc869" />
 
 
 **Dashboard Overview**
@@ -88,6 +89,7 @@ The goal of this project is to practice data analysis skills and turn raw e-comm
 
 **Detailed Analysis**
 
+<img width="1198" height="647" alt="dashboard-details" src="https://github.com/user-attachments/assets/de6fbb4a-c853-41e2-b7a0-6c79887a367b" />
 
 
 **Dashboard Details**
