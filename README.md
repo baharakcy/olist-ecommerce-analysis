@@ -2,7 +2,7 @@
 
 
 
-Project Overview
+**Project Overview**
 
 
 
@@ -10,7 +10,7 @@ This project analyzes the Olist Brazilian e-commerce dataset to explore sales pe
 
 
 
-Tools \& Technologies
+**Tools \& Technologies**
 
 
 
@@ -22,7 +22,7 @@ Tools \& Technologies
 
 
 
-Project Structure
+**Project Structure**
 
 
 
@@ -34,7 +34,7 @@ Project Structure
 
 
 
-Key Analysis Areas
+**Key Analysis Areas**
 
 
 
@@ -50,7 +50,7 @@ Key Analysis Areas
 
 
 
-Dataset
+**Dataset**
 
 
 
@@ -71,4 +71,20 @@ Project Goal
 
 
 The goal of this project is to practice data analysis skills and turn raw e-commerce data into actionable business insights using SQL, Python, and Power BI.
+
+
+
+**Power BI Dashboard**
+
+
+
+**Overview**
+
+Dashboard Overview
+
+
+
+**Detailed Analysis**
+
+Dashboard Details
 
