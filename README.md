@@ -26,7 +26,7 @@ This project analyzes the Olist Brazilian e-commerce dataset to explore sales pe
 
 
 
-\* SQL/ — Data exploration and SQL queries
+\* SQL/— Data exploration and SQL queries
 
 \* Python/ — Data cleaning, exploration, and analysis using Python
 
@@ -80,11 +80,15 @@ The goal of this project is to practice data analysis skills and turn raw e-comm
 
 **Overview**
 
-Dashboard Overview
+
+
+**Dashboard Overview**
 
 
 
 **Detailed Analysis**
 
-Dashboard Details
+
+
+**Dashboard Details**
 
